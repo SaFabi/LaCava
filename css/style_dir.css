@@ -1,0 +1,75 @@
+body{
+    background: url(../img/fondomadera.jpg) no-repeat fixed center center;
+}
+
+#div1{
+  margin-top: 20px;
+}
+
+#sect1{
+	background: #ffe6cc;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 10px;
+  border: dashed;
+  border-radius: 12px;
+  border-color: #330000;
+}
+
+.navbar{
+  background-color: #330000;
+}
+
+img{
+width: 100%;
+height: 150px;
+}
+
+.naranja{
+background: #ffe6cc;
+border: dashed;
+border-radius: 12px;
+border-color: #330000;
+}
+
+#img1{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 400px;
+
+}
+
+.menu_entradas_nombres{
+color: black;
+font-family: century;
+font-size: 1.5em;
+background: #ffe6cc;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 10px;
+
+}
+
+.hola{
+    color: black;
+font-family: century;
+font-size: 1.5em;
+background: #ffe6cc;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 10px;
+margin-bottom: 10px;
+border: dashed;
+border-radius: 12px;
+border-color: #330000;
+}
+
+footer{
+  background: #330000;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 10px;
+  border: dashed;
+  border-radius: 8px;
+  border-color: #330000;
+}

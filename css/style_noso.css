@@ -1,0 +1,139 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+#div1{
+  margin-top: 20px;
+}
+#sect1{
+	background: #ffe6cc;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 10px;
+}
+.footer{
+  color: white;
+  text-align: center;
+  font-family: arial;
+  font-size: 10px;
+  background-color: brown;
+}
+
+img{
+width: 100%;
+height: 150px;
+}
+
+.naranja{
+  color: white;
+  text-align: left;
+  font-family:Century;
+  background-color: ;
+  font-size: 22px;
+  text-align: center;
+}
+.info{
+  margin-right: 15%;
+  margin-left: ;
+  width: 100%;
+  height: 200px;
+  background-color: black ;
+}
+
+#myNavbar{
+  font-size: 18px;
+}
+
+#reserva{
+  margin-right: 10%;
+  margin-left: 10%;
+  width: 80%;
+  height: 700px;
+  background-color: ;
+}
+
+
+#img{
+  margin-top:2% ;
+  width: 100%; 
+  height: 70%;
+  border: 5px double white;
+  background-size: 100% 100%;
+  background-repeat:no-repeat;
+  animation-name:gal;
+  animation-duration:5s;
+  animation-iteration-count:infinite; 
+}
+@keyframes gal{
+  100%{background: url(../img/logo.jpg); 
+    background-size: 100% 100%;
+    background-repeat: no-repeat; }
+  0%{background: url(../img/imagen1.jpg); 
+    background-size: 100% 100%;
+    background-repeat: no-repeat; }
+}
+
+.parrafo{
+  margin-right: 2%;
+  margin-left: ;
+  margin-top: 2%;
+  float:left;
+  width: 68%;
+  height: 25%;
+  background: black;
+}
+.mas{
+  margin-right: ;
+  margin-top: 2%;
+  float:right;
+  width: 30%;
+  height: 25%;
+  background: url(../img/banquete.jpg);
+  background-size: 100% 100%;
+  border: 6px solid black;
+}
+
+#informacion{
+  margin-right: 10%;
+  margin-left: 10%;
+  width: 80%;
+  height: 240px;
+  background-color:black;
+}
+.domicilio{
+  margin-right: 2%;
+  margin-left: 2%;
+  margin-top: 2%;
+  float: left;
+  width: 31%;
+  height: 190px;
+  background-color: black;
+  border: 6px double white;
+}
+.horario{
+  margin-right: 2%;
+  margin-top: 2%;
+  float:left;
+  width: 30%;
+  height: 190px;
+  background-color: black ;
+  border: 6px double white;
+}
+.otro{
+  margin-right: 2%;
+  margin-top: 2%;
+  float: right;
+  width: 31%;
+  height: 190px;
+  background-color: black;
+  border: 6px double white;
+}
+footer{
+  background: #330000;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 10px;
+  border: dashed;
+  border-radius: 8px;
+  border-color: #330000;
+}

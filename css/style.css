@@ -1,0 +1,63 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+}
+
+img {
+  width: 100%;
+  height: 150px;
+}
+
+#div1{
+  margin-top: 20px;
+}
+
+body{
+  background: url(../img/fondomadera.jpg) no-repeat fixed center center;
+}
+
+#divsli{
+  margin-top: -10px;
+}
+
+.navbar{
+  background-color: #330000;
+}
+
+#sect1{
+	background: #ffe6cc;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 10px;
+  border: dashed;
+  border-radius: 12px;
+  border-color: #330000;
+}
+#art3{
+margin-top: 20px;
+}
+
+#btn1{
+	text-align: left;
+}
+
+#sect2{
+  background: #ffe6cc;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 10px;
+  border: dashed;
+  border-radius: 8px;
+  border-color: #330000;
+}
+
+footer{
+  background: #330000;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 10px;
+  border: dashed;
+  border-radius: 8px;
+  border-color: #330000;
+}
